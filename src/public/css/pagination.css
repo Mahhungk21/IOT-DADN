@@ -1,0 +1,15 @@
+.footer-pg {
+    margin-top: 25px;
+    font-size: 14px;
+}
+.footer-pg button {
+    padding: 3px 10px;
+    color: black;
+    background-color: transparent;
+    font-size: 14px;
+    cursor: pointer;
+}
+button.active,
+button:hover {
+    background: #999;
+}
